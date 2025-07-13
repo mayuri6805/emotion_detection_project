@@ -1,0 +1,19 @@
+tensorflow
+keras
+pandas
+numpy
+jupyter
+notebook
+tQDn
+opencv-contrib-python
+
+images                            labels
+images/angry/mayuri.png           angry
+images/angry/m.png                angry
+images/sad/mayuri.png              sad
+images/sad/mayuri2.png             sad
+
+
+load_img(img,grayscale=True)
+
+
